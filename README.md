@@ -14,4 +14,3 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-Correction d'une faute de frappe.
